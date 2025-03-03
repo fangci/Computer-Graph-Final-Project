@@ -1,0 +1,26 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl Material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 1.600000 -s 3.400000 4.200000 1.000000 C:\\Users\\Šimon Ustal\\Downloads\\tropical-palm\\source\\stáhnout (3).png
+map_Kd -s 3.400000 4.200000 1.000000 C:\\Users\\Šimon Ustal\\Downloads\\tropical-palm\\source\\TexturesCom_BarkPalm0018_1_seamless_S.jpg
+map_Ks -s 3.400000 4.200000 1.000000 C:\\Users\\Šimon Ustal\\Downloads\\tropical-palm\\source\\stáhnout (2).png
+
+newmtl Material.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Šimon Ustal\\Downloads\\tropical-palm\\source\\5284d63ddf4f6eb14c60269ecfb4851c.png
