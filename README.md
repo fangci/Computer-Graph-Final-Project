@@ -2,13 +2,20 @@
 
 This project presents a **realistic island scene** with dynamically changing landscapes, integrating **terrain, ocean, sky, vegetation, and sunlight variations** to simulate a natural environment.
 
+![預覽](/images/project.png)
+
 ## 🌍 **Project Overview**
 This project creates a **natural island environment** where elements change over time:
 - **Terrain**: Procedurally generated using **Perlin Noise**, with different textures based on elevation.
+![預覽](/images/island.png)
 - **Ocean**: **FFT-based waves** simulate realistic water movement and reflections.
+![預覽](/images/sea.png)
 - **Sky**: Implemented using **Skybox**, with a slow rotation for enhanced realism.
+![預覽](/images/sky.png)
 - **Vegetation**: Randomly placed plants that adapt to terrain slopes.
+![預覽](/images/plant.png)
 - **Sunlight**: Dynamic lighting simulating sunrise, noon, sunset, and night.
+![預覽](/images/light.png)
 
 ---
 
@@ -41,7 +48,7 @@ This project creates a **natural island environment** where elements change over
   - **Morning & Evening** → Warm orange hue.
   - **Noon** → Bright white light.
   - **Night** → Low ambient lighting.
-
+![預覽](/images/light02.png)
 ---
 
 ## 🛠 **Technical Implementation**
