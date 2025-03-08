@@ -70,8 +70,8 @@ git clone https://github.com/your-repo/island-rendering.git
 ```
 
 3️⃣ Run in Visual Studio
-Open Visual Studio.
-Create a new project and import files.
-Build and Run.
+- Open Visual Studio.
+- Create a new project and import files.
+- Build and Run.
 
 🌴 Explore the dynamic island world! 🏝️🌊☀️
